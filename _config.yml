@@ -15,6 +15,7 @@ author: Shelley Johnson
 
 navbar-links:
   About Me: "aboutme"
+  Publications: "publications"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -39,10 +40,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "johnsr26@uw.edu"
+#  facebook: deanattali
+  github: johnsr26
+#  twitter: daattali
 #  patreon: DeanAttali
 #  reddit: yourname
 #  linkedin: daattali
@@ -59,7 +60,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: https://orcid.org/0000-0003-1480-4088
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
